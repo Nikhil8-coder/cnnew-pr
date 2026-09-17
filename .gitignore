@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Streamlit shared chat store
+streamlit_version/chat.db
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
